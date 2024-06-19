@@ -1,6 +1,6 @@
 # Report Writing Templates
 
-This repo contains a collection of prompt templates to assist with writing high-quality vulnerability reports for using AI language models like GPT-4. The templates are designed to produce reports that are easy to generate, easy to follow, use organic language, and maintain good writing quality.
+This repo contains a collection of prompt templates to assist with writing high-quality vulnerability reports using AI language models like GPT-4. The templates are designed to produce reports that are easy to generate, easy to follow, use organic language, and maintain good writing quality.
 
 The recommended setup is [Cursor](https://www.cursor.com/) with [Claude 3 Opus](https://docs.cursor.com/advanced/model-toggle) (you'll need a Pro subscription for that).
 
@@ -28,6 +28,8 @@ The recommended setup is [Cursor](https://www.cursor.com/) with [Claude 3 Opus](
 5. Manually review and edit the final report, adding missing context and correcting any errors
 
 Treat the AI's output as a starting point, not a final product. Always verify the reasoning, POC, and other details yourself before submitting.
+
+See [this X thread](https://x.com/0xEV_om/status/1803303530213810639) for more details.
 
 ## Contributing 
 
