@@ -1,7 +1,7 @@
-Convert this comment into an issue for an audit report in Markdown. Provide sound reasoning such as to make a convincing case. Do not replicate or reference the comment, instead, generate a section in a code block as follows:  
+Convert this comment into an issue for an audit report in Markdown. Use @filename_or_url for context. Provide sound reasoning such as to make a convincing case. Do not replicate or reference the comment, instead, generate a section in a code block as follows:  
   
 ```  
-# Title should use normal case and just mention high-level impact and name primary components  
+# Title in normal case stating the highest impact in simple terms
   
 ## Description  
 Detailed description of this finding as inferred from the comment and the context. Walk through the part of the logic where the root cause of the issue is located, clearly point out the root cause and finally outline the scenario with the highest impact. Do not omit any information provided in the comment.
