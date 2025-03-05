@@ -5,7 +5,7 @@ Convert this comment into an issue for an audit report in Markdown. Use @filenam
 
 Detailed description of this finding as inferred from the comment and the context. Start by providing a summary of the functionalities in play, describing relevant components or functions and how they interact. Go from more general to more specific, until you get to the part of the logic where the root cause of the issue is located. Then, clearly point out the issue and finally outline the scenario with the highest impact. If it has multiple consequences, list them. If there is a higher impact with stated assumptions and a lesser one which applies no matter what, make that distinction.
 
-Include any links from the comment. If there are any quotes in the comment, integrate them into your description. All mentions to function, variable and contract names should be formatted as `code snippets`. Functions must always be formatted with parentheses after their name, as in `functionName()`. Larger code blocks must be formatted using TWO backticks instead of three:
+Include any links from the comment. If there are any quotes in the comment, integrate them into your description. Use `> [!NOTE]` annotations where appropriate. All mentions to function, variable and contract names should be formatted as `code snippets`. Functions must always be formatted with parentheses after their name, as in `functionName()`. Larger code blocks must be formatted using TWO backticks instead of three:
 
 ``
 function someCode()

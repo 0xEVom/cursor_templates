@@ -11,9 +11,15 @@ The recommended setup is [Cursor](https://www.cursor.com/) with [Claude 3 Opus](
 - `QA.md`: Template for Low severity / QA issues
 
 ### Cantina
-- `HM.md`: Standard template for High/Medium severity issues
-- `HM detailed.md`: More detailed template for complex High/Medium severity issues
-- `HM with POC.md`: Template that includes a Proof of Concept section
+- `Minimal.md`: Standard minimal template for Low severity issues
+- `Minimal with POC.md`: Minimal template for simple High/Medium severity issues that require a PoC
+- `Detailed with POC.md`: Detailed template for more complex High/Medium severity issues
+
+### Immunefi
+- `Report.md`: Standard template for vulnerability reports
+
+### Sherlock
+- `HM.md`: Template for High/Medium severity issues
 
 ### Follow-up Templates 
 - `Follow-up list steps in test.md`: Summarize a coded POC into a list of steps
