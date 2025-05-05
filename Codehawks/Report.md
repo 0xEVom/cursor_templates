@@ -1,10 +1,10 @@
-```markdown
 Convert the selected code comment(s)/code into a Codehawks vulnerability report using the Markdown structure below. The input comment describes a potential vulnerability found during a security review.
 
 Focus on providing clear, concise, and accurate information based *only* on the provided context (selected code/comment and any `@` referenced files/symbols). Ensure the reasoning is sound and directly supports the finding.
 
 Format the entire response as a single Markdown code block.
 
+```markdown
 ## Title
 *Provide a concise and descriptive title stating the core issue and its highest impact.*
 
