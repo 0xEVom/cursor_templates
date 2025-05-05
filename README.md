@@ -6,14 +6,17 @@ The recommended setup is [Cursor](https://www.cursor.com/) with [Claude 3 Opus](
 
 ## Templates
 
-### Code4rena
-- `HM.md`: Template for High/Medium severity issues 
-- `QA.md`: Template for Low severity / QA issues
-
 ### Cantina
 - `Minimal.md`: Standard minimal template for Low severity issues
 - `Minimal with POC.md`: Minimal template for simple High/Medium severity issues that require a PoC
 - `Detailed with POC.md`: Detailed template for more complex High/Medium severity issues
+  
+### Code4rena
+- `HM.md`: Template for High/Medium severity issues 
+- `QA.md`: Template for Low severity / QA issues
+
+### Codehawks
+- `Report.md`: Standard template for vulnerability reports
 
 ### Immunefi
 - `Report.md`: Standard template for vulnerability reports
